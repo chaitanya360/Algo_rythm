@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Algo_rythm/static/css/main.79da86b9.chunk.css",
-    "main.js": "/Algo_rythm/static/js/main.0b2042e3.chunk.js",
-    "main.js.map": "/Algo_rythm/static/js/main.0b2042e3.chunk.js.map",
+    "main.js": "/Algo_rythm/static/js/main.e7b473e7.chunk.js",
+    "main.js.map": "/Algo_rythm/static/js/main.e7b473e7.chunk.js.map",
     "runtime-main.js": "/Algo_rythm/static/js/runtime-main.5b9b415a.js",
     "runtime-main.js.map": "/Algo_rythm/static/js/runtime-main.5b9b415a.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Algo_rythm/static/css/2.20aa2d7b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.c4c98dfa.chunk.js",
     "static/css/main.79da86b9.chunk.css",
-    "static/js/main.0b2042e3.chunk.js"
+    "static/js/main.e7b473e7.chunk.js"
   ]
 }
