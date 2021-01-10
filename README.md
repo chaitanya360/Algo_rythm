@@ -1,4 +1,4 @@
-<h2> Algo_rythm - see how elements are sorted in verious sorting techniques <h2>
+<h2> Algo_rythm - see how elements are sorted in verious sorting techniques  <a href="https://chaitanya360.github.io/Algo_rythm/">visit</a></h2>
 This is visual illustration of various sorting and searching algorithms.
 
 ### click on
