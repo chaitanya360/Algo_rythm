@@ -14,4 +14,14 @@ You can change size of bar (width/height).
 
 ### `V/H (change the layout of bars).`
 
+#### Try changing width/height of bars <br>
+#### Try changing speed. <br>
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
