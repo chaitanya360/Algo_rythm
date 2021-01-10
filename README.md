@@ -1,4 +1,4 @@
-# Algo_rythm - see how elements are sorted in verious sorting techniques
+<h2> Algo_rythm - see how elements are sorted in verious sorting techniques <h2>
 
 ## This is visual illustration of various sorting and searching algorithms.
 
@@ -14,7 +14,6 @@ You can change size of bar (width/height).
 
 ### `V/H (change the layout of bars).`
 
-#### Try changing width/height of bars <br>
 #### Try changing speed. <br>
 
 
